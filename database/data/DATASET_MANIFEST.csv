@@ -1,0 +1,40 @@
+Path,Purpose
+01_create_tables.sql,ETL/schema/documentation
+02_queries.sql,ETL/schema/documentation
+03_validation_queries.sql,ETL/schema/documentation
+DOCUMENTATION_ETL_NORMALIZATION.md,ETL/schema/documentation
+ETL_VALIDATION_REPORT.csv,Normalized database table
+README_SQL_WORKBENCH.md,ETL/schema/documentation
+artifact.csv,Normalized database table
+artifact_has_donor.csv,Normalized database table
+artifact_has_material.csv,Normalized database table
+artifact_has_type.csv,Normalized database table
+artifact_type.csv,Normalized database table
+category.csv,Normalized database table
+city.csv,Normalized database table
+closed_days.csv,Normalized database table
+contact.csv,Normalized database table
+dimension.csv,Normalized database table
+district.csv,Normalized database table
+division.csv,Normalized database table
+donor.csv,Normalized database table
+entry_fee.csv,Normalized database table
+gallery.csv,Normalized database table
+image.csv,Normalized database table
+load_database.py,ETL/schema/documentation
+material.csv,Normalized database table
+museum.csv,Normalized database table
+museum_phone.csv,Normalized database table
+opening_hours.csv,Normalized database table
+owner.csv,Normalized database table
+requirements.txt,ETL/schema/documentation
+source.csv,Normalized database table
+staging/artifact_image_full.csv,Staging/audit file
+staging/artifact_image_relation.csv,Staging/audit file
+staging/cu_museum_catalogue_extraction.csv,Staging/audit file
+staging/lwm_artifact_full.csv,Staging/audit file
+staging/lwm_commons_image_index.csv,Staging/audit file
+staging/lwm_district_index_from_existing_records.csv,Staging/audit file
+staging/lwm_donor_artifact_full.csv,Staging/audit file
+staging/lwm_existing_object_donor_index.csv,Staging/audit file
+staging/lwm_object_donor_extraction.csv,Staging/audit file

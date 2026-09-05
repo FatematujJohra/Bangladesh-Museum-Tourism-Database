@@ -1,0 +1,41 @@
+Check,Status,Detail
+Rows in division.csv,PASS,8
+Rows in district.csv,PASS,32
+Rows in city.csv,PASS,52
+Rows in owner.csv,PASS,29
+Rows in category.csv,PASS,33
+Rows in museum.csv,PASS,63
+Rows in gallery.csv,PASS,338
+Rows in artifact.csv,PASS,3505
+Rows in artifact_type.csv,PASS,456
+Rows in material.csv,PASS,488
+Rows in dimension.csv,PASS,382
+Rows in donor.csv,PASS,1247
+Rows in artifact_has_donor.csv,PASS,3127
+Rows in artifact_has_type.csv,PASS,4094
+Rows in artifact_has_material.csv,PASS,1877
+Rows in image.csv,PASS,482
+Rows in museum_phone.csv,PASS,15
+Rows in entry_fee.csv,PASS,53
+Rows in opening_hours.csv,PASS,21
+Rows in closed_days.csv,PASS,20
+Rows in contact.csv,PASS,29
+Rows in source.csv,PASS,74
+Artifact→Museum,PASS,0 invalid non-null references
+Artifact→Dimension,PASS,0 invalid non-null references
+artifact_has_donor.csv→Artifact_ID,PASS,0 invalid references
+artifact_has_donor.csv→Donor_ID,PASS,0 invalid references
+artifact_has_type.csv→Artifact_ID,PASS,0 invalid references
+artifact_has_type.csv→Artifact_Type_ID,PASS,0 invalid references
+artifact_has_material.csv→Artifact_ID,PASS,0 invalid references
+artifact_has_material.csv→Material_ID,PASS,0 invalid references
+image.csv→Artifact_ID,PASS,0 invalid references
+museum_phone.csv→Museum_ID,PASS,0 invalid references
+Duplicate artifact_has_donor.csv,PASS,0 duplicate relationship rows
+Duplicate artifact_has_type.csv,PASS,0 duplicate relationship rows
+Duplicate artifact_has_material.csv,PASS,0 duplicate relationship rows
+Duplicate museum_phone.csv,PASS,0 duplicate relationship rows
+Artifacts with multiple donors,INFO,111
+Artifacts with multiple types,INFO,571
+Artifacts with multiple materials,INFO,427
+Museums with multiple phone numbers,INFO,3

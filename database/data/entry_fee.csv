@@ -1,0 +1,54 @@
+Museum_ID,Fee_Type,Fee_Amount
+1,Local,40
+1,SAARC,300
+1,Foreigner,500
+1,Others,"20 (student), under 5 free"
+2,Local,15
+2,SAARC,50
+2,Foreigner,200
+2,Others,"5 (secondary level), under 5 free"
+4,Local,20
+7,Local,150
+7,SAARC,500
+7,Foreigner,800
+7,Others,Military Schools: BDT 30 / Other Schools: BDT 50
+8,Local,20
+8,SAARC,100
+8,Foreigner,500
+9,Local,10
+9,SAARC,25
+9,Foreigner,100
+9,Others,"5 (secondary level), under 5 free"
+12,Local,20
+12,Foreigner,500
+18,Local,2
+19,Local,5
+19,Others,5
+29,Local,10
+29,Foreigner,50
+31,Local,20
+31,Others,Free for students on educational tours
+43,Local,20
+43,SAARC,300
+43,Foreigner,500
+44,Local,20
+44,Others,10
+52,Local,20
+56,Local,20
+56,SAARC,300
+56,Foreigner,500
+57,Local,20
+57,SAARC,300
+57,Foreigner,500
+60,Local,40
+60,SAARC,300
+60,Foreigner,500
+60,Others,"20 (student), under 5 free"
+62,Local,Free
+62,SAARC,Free
+62,Foreigner,Free
+62,Others,Free
+63,Local,30
+63,SAARC,200
+63,Foreigner,400
+63,Others,10

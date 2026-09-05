@@ -1,0 +1,457 @@
+Artifact_Type_ID,Artifact_Type_Name
+1,Weapon
+2,Armor
+3,Headgear
+4,Coin
+5,Manuscript
+6,Painting
+7,Sketch
+8,Sculpture
+9,Hindu Sculpture
+10,Shaiva
+11,Shakta
+12,Buddhist Sculpture
+13,Vajrayana
+14,Natural Specimen
+15,Inscription
+16,Terracotta relief plaque
+17,Bronze cast image (lost-wax
+18,cire perdue)
+19,Personal military memorabilia
+20,Architectural wood carving
+21,decorative panel
+22,Personal clothing (martyrdom relics)
+23,gun
+24,Map
+25,Industrial
+26,Natural Resources Diorama
+27,Scientific
+28,Communication Instrument
+29,Ethnographic
+30,Maritime Heritage models
+31,Religious Artifact
+32,Ethnographic Diorama
+33,Living History Display
+34,Textile
+35,Decorative Arts
+36,Traditional Dress
+37,Portrait Sculpture
+38,Vaishnava
+39,Tantric
+40,Pancaraksha
+41,Brahmanical
+42,Architectural Sculpture
+43,Votive Monument
+44,Inscribed Pillar
+45,Architectural Element
+46,Temple Pillar
+47,Numismatic Artifact
+48,Trade Artifact
+49,Proto-Currency
+50,Minting Equipment
+51,Industrial Artifact
+52,Storage Artifact
+53,Ceramic
+54,Banknote
+55,Historical Currency
+56,Commemorative Banknote
+57,Historical World Currency
+58,Artwork
+59,Decorative Installation
+60,Coin Hoard
+61,Archaeological Find
+62,Coin Collection
+63,World Currencies
+64,Digital
+65,Technology Exhibit
+66,Architectural Fragment
+67,Terracotta
+68,Brick
+69,Domestic Artifact
+70,Musical Instrument
+71,Folk Artifact
+72,Ethnographic Artifact
+73,Religious Artifact (mixed)
+74,Document
+75,Photographic Archive
+76,Natural History
+77,Geographic Exhibit
+78,Biographical Display
+79,Portrait Gallery
+80,Architectural Heritage
+81,Building Museum
+82,Jewelry
+83,Ceremonial Object
+84,Agricultural Tool
+85,Tool
+86,Academic Publication
+87,Ethnographic Artifact (mixed)
+88,Literary Artifact
+89,Archaeological Artifact
+90,Rare Publication
+91,Print Heritage
+92,Book
+93,Religious Studies
+94,Historical Document
+95,Biographical Artifact
+96,Furniture
+97,Security Artifact
+98,Musical
+99,Mechanical Instrument
+100,Security Object
+101,Lighting
+102,Decorative Artifact
+103,Administrative Artifact
+104,Metalwork
+105,Military Artifact
+106,Ceremonial Artifact
+107,Administrative Record
+108,Photograph
+109,Educational Model
+110,Architectural Replica
+111,Social Object
+112,Religious
+113,Cartographic Record
+114,Epigraphic Record
+115,Building Material
+116,Epigraphic Artifact
+117,Stone
+118,Religious Object
+119,Legal Document
+120,Personal Ornament
+121,Heritage Craft
+122,Fishing Equipment
+123,Fighter Aircraft
+124,Jet Trainer
+125,Fighter
+126,Trainer Aircraft
+127,Fighter Aircraft (Supersonic)
+128,Fighter Aircraft (Transonic)
+129,Light Attack
+130,Transport Helicopter
+131,Utility Helicopter
+132,Heraldic
+133,Institutional Symbol
+134,Military Uniform Collection
+135,Ordnance
+136,Aero Engine
+137,Electronic
+138,Communication Equipment
+139,Aviation Safety Equipment
+140,Personal Record
+141,Archival Photographs
+142,Ceremonial
+143,Transport
+144,Civil Aviation Heritage
+145,Anti-Aircraft Artillery
+146,Scale Models
+147,Diorama
+148,Transport Aircraft
+149,Orders
+150,Decorations
+151,Medals
+152,Aviation Safety
+153,Survival Equipment
+154,Interpretive Display
+155,War Relics
+156,Wreckage
+157,Archival
+158,Institutional Record
+159,Folk Art
+160,Performing Arts
+161,Toy
+162,Folk Craft
+163,Decorative Art
+164,Urban Folk Art
+165,Instrument
+166,Educational Artifact
+167,Educational Material
+168,Print
+169,Game
+170,Paper Ephemera
+171,Cultural Artifact
+172,Religious Folk Art
+173,Drawing
+174,Domestic Object
+175,Ethnographic Model
+176,Maritime Heritage
+177,Poster
+178,Graphic Art
+179,Award
+180,Traditional Watercraft
+181,Boat Model or Specimen
+182,Racing Boat
+183,Thematic Exhibition Section
+184,Documentary Display
+185,Research
+186,Documentation Facility
+187,Library
+188,Recreational
+189,Educational Facility
+190,Visitor Facility
+191,Bronze Sculpture
+192,Stone Sculpture
+193,Archaeological Instrument
+194,Stucco Sculpture
+195,Metal Sculpture
+196,Bronze Stupa
+197,Terracotta Sealing
+198,Numismatic Collection
+199,Seals
+200,Votive Objects
+201,Numismatic
+202,Bronze Object
+203,Pottery
+204,Ornamental Object
+205,Wooden Object
+206,Teracotta plaque
+207,Political Instrument
+208,Historical Relic
+209,Books
+210,Historical Relics
+211,Evidence Artifacts
+212,Photographic
+213,Archival Display
+214,Personal Effect
+215,Decorative Object
+216,Personal Correspondence
+217,Household Item
+218,Children's Item
+219,Household Appliance
+220,Children's Toy
+221,Sports Equipment
+222,Children's Toys
+223,Timepiece
+224,Smoking Accessory
+225,Personal Clothing
+226,National Symbol
+227,Eyewear
+228,Personal Effects (Miscellaneous)
+229,Personal Document
+230,Diary
+231,Historical Evidence
+232,Clothing
+233,Historical Documentation
+234,Photographic Evidence
+235,Architectural Evidence
+236,In-Situ Historical Relic
+237,In-Situ Historical Site
+238,Preserved Room
+239,Preserved Memorial Room
+240,Historical Site
+241,Historical Interior
+242,Architectural Historical Site
+243,In-Situ Relic
+244,Historical Documents
+245,Archival Records
+246,Archival Media
+247,Newspaper Clippings
+248,Personal Memorabilia
+249,Audio Archive
+250,Historical Recording
+251,Model
+252,Filigree Artwork
+253,Crockery
+254,Domestic Ware
+255,Documentary Image
+256,Lighting Fixture
+257,Utensils
+258,Architectural Drawing
+259,Wooden Cabinet
+260,Mirror
+261,Tableware
+262,Portrait
+263,Mechanical Fixture
+264,Fan
+265,Armour
+266,Trophy
+267,Decorative Woodwork
+268,Table
+269,Medical Equipment
+270,Register
+271,Personal Effects
+272,Objects (Nawab)
+273,Trophy Collection
+274,Safe
+275,Strong Box
+276,Chest
+277,Storage Cabinet
+278,Oil Painting
+279,Genealogical Chart
+280,Deed
+281,Oil Painting (Collection)
+282,Medal
+283,Decoration
+284,Album
+285,Illustrated Document
+286,Memento
+287,Letter
+288,Official Seal
+289,Administrative Object
+290,Portrait Collection
+291,Craft
+292,Furniture (Remade)
+293,Decorative
+294,Household Objects
+295,Lamp
+296,Weapon (Unspecified types)
+297,Library Collection
+298,Illustrated Collection
+299,Decorative Glass
+300,Floor Decoration
+301,Artwork (Imaginary)
+302,Bed
+303,Panel Display
+304,Chandelier
+305,Decorative Vases
+306,Weapons
+307,Armour Collection
+308,Throne
+309,Furniture (Chairs
+310,Tables)
+311,Vase
+312,Mat
+313,Luxury Object
+314,Mixed (22 listed items
+315,see individual gallery entries)
+316,Interactive Exhibit
+317,Scale Model
+318,Telescope
+319,Chart
+320,Artefact
+321,Memorabilia
+322,Biological Model
+323,Fossil
+324,Skeleton (Real)
+325,Medical Specimen
+326,Preserved Specimen
+327,Historic Machine
+328,Machine
+329,Technology
+330,Engine
+331,Historic Engine
+332,Historic Instrument
+333,Geological Specimen
+334,Natural History Specimen
+335,Taxidermy
+336,Botanical Specimen
+337,Archaeological Tool
+338,Historical Artifact
+339,Flag
+340,Artifact
+341,Cannon
+342,Ethnographic Object
+343,Costume
+344,Jewellery
+345,Ornament
+346,Painting (Reproduction
+347,Original)
+348,International Cultural Artifact
+349,Ritual Object
+350,Terracotta Plaque
+351,Terracotta Seals
+352,Archive
+353,Graphic
+354,Display Panel
+355,Historical Artefact
+356,Literature Display
+357,Firearm
+358,Artillery
+359,Uniform
+360,Apparel
+361,Insignia
+362,Display
+363,Exhibit
+364,Personal Artefact
+365,Edged Weapon
+366,Explosive
+367,Educational Exhibit
+368,Naval Weapon
+369,Interactive Simulator
+370,Naval Artefact
+371,Aircraft
+372,Missile
+373,Weapon System
+374,Component
+375,Memorial Display
+376,Cultural Exhibit
+377,Gift
+378,Crest
+379,Decorative Item
+380,Scientific Specimen
+381,Military Vehicle (Tank)
+382,Military Vehicle (APC)
+383,Artillery (Cannon)
+384,Naval Artillery
+385,Military Vehicle
+386,Architectural Feature
+387,Installation
+388,Sculpter
+389,Zoological Specimen
+390,Preserved Fish
+391,Institutional History
+392,Educational Display
+393,Cultural History
+394,Educational
+395,Conservation Exhibit
+396,Environmental
+397,Cultural
+398,Zoological Specimens
+399,Zoological Collection
+400,Preserved Specimens
+401,Liberation War Artifact
+402,Architectural Model
+403,Ethnographic Exhibit
+404,Tool Collection
+405,Ethnographic Collection
+406,Mixed Artifacts
+407,International Artifacts
+408,Cartographic Exhibit
+409,Architectural Documentation
+410,Newspaper
+411,Social Reform Archive
+412,Personal Artifact
+413,Memorial Object
+414,Islamic Heritage
+415,Archaeological Object
+416,Artifact Collection
+417,Archaeological Objects
+418,Historical Display
+419,Mughal Art
+420,Calligraphy
+421,Mughal Decorative Art
+422,Historical
+423,Monument
+424,Memorial Installation
+425,Memorial Exhibit
+426,Founding Document
+427,Research Archive
+428,Agricultural
+429,Domestic Tool
+430,Performance Artifact
+431,Contemporary Art
+432,Memorial Site
+433,Weapon (Replica)
+434,Personal Testimony
+435,Local History
+436,Cartographic Document
+437,Military Personal Item
+438,Medical Document
+439,Leaflet
+440,Notebook
+441,Historical Object
+442,Identity Document
+443,Envelope
+444,Political Badge
+445,Letter / Official Document
+446,Memorial Material
+447,Seal
+448,Certificate
+449,Human Remain / Memorial Material
+450,Clothing / Personal Artifact
+451,Audio / Record
+452,Weapon / Military Artifact
+453,Booklet
+454,Postal Stamp
+455,Camera
+456,Writing Instrument
